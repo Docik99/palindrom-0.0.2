@@ -6,10 +6,10 @@ int main()
 
 {
     int i, p;
-	string a, k, m;
+    string a, k, m;
 
-	getline(cin, a);
-	p = a.length();
+    getline(cin, a);
+    p = a.length();
 
     for (i = p - 1; i >= 0; --i)
     {
